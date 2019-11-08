@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: app
-          image: viliusvv/cloud-lab:0.1 # TODO. Change this to your image from your Docker Hub repo
+          image: viliusvv/cloud-lab:v0.1.1 # TODO. Change this to your image from your Docker Hub repo
           ports:
             - name: http
               containerPort: 8080
