@@ -2,7 +2,6 @@ package controller
 
 import (
 	"github.com/gorilla/mux"
-	"github.com/viliusvv/cloud-lab/internal/controller"
 	"fmt"
 	"net/http"
 	"os"
