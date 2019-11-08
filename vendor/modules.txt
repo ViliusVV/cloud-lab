@@ -6,3 +6,6 @@ github.com/inconshreveable/mousetrap
 github.com/spf13/cobra
 # github.com/spf13/pflag v1.0.3
 github.com/spf13/pflag
+# github.com/tcentric/cloud-lab v0.0.0-20191107221551-dbe5168258a5
+github.com/tcentric/cloud-lab/cmd
+github.com/tcentric/cloud-lab/internal/controller
